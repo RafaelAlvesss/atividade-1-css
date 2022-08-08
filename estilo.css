@@ -1,0 +1,259 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+}
+
+body{
+
+ background-color: white;
+ background-size: 1650px 980px;
+ display: block;
+ float: none;
+
+}
+
+header{
+
+    width: 60%;
+    height: 210px;
+    border: 2px solid black;
+    background-color: rgba(109, 198, 145, 1);
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+
+#logo{
+    
+    border: 1px solid black;
+    width: 15%;
+    height: 80%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(199, 37, 254, 1);
+    background-image: url(imagens/malvadezinha.jpg);
+    background-repeat: no-repeat;
+    background-size: 190px 190px;
+    
+}
+
+#nome{
+
+    border: 1px solid black;
+    width: 45%;
+    height: 10%;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: rgba(247, 129 , 17 , 1);
+    text-align: center;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#sec0{
+
+    width: 100%;
+    height: 70px;
+    margin-bottom: 20px;
+
+}
+
+
+#nav1{
+
+    border: 2px solid black;
+    width: 29%;
+    height: 65px;
+    margin-left: 318px;
+    margin-top: 10px;
+    background-color: rgba(77, 25, 211, 1);
+    float: left;
+    text-align: center;
+    text-decoration-color: crimson;
+    font-weight: bolder;
+    line-height: 65px;
+
+}
+
+#nav2{
+
+    border: 2px solid black;
+    width: 29%;
+    height: 65px;
+    margin-right: 320px;
+    margin-top: 10px;
+    background-color: rgba(132, 123, 255, 1);
+    float: right;
+    font-size: smaller;
+    
+}
+
+main{
+
+    /*border: 2px solid black;*/
+    width: 60%;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#as3{
+
+    border: 1px solid black;
+    width: 20%;
+    height: 100%;
+    background-color: rgba(139, 233, 253, 1);
+    float: right; 
+    background-image: url(imagens/capitalismo.jpg);
+    background-repeat: no-repeat;
+    background-size: 190px 450px;   
+
+}
+
+#as1{
+
+    border: 1px solid black;
+    width: 20%;
+    height: 100%;
+    background-color: rgba(139, 233, 253, 1);
+    float: left;
+    
+}
+
+#sec1{
+
+    width: 90%;
+    height: 45%;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgba(233, 120, 164, 1);
+    background-image: url(imagens/bron\ bron.jpg);
+    background-size: 200px 210px;
+    background-repeat: no-repeat;
+
+}
+
+#sec2{
+
+    width: 90%;
+    height: 48%;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgba(233, 120, 164, 1);
+    background-image: url(imagens/carro\ do\ well\ well.webp);
+    background-size: 190px 220px;
+    background-repeat: no-repeat;
+
+}
+
+#as2{
+
+    width: 55%;
+    height: 100%;
+    border: 1px solid black;
+    margin-left: 210px;
+    background-color: rgba(123, 321, 155, 1);
+    background-image: url(imagens/logo\ carro\ do\ well\ well.jpg);
+    background-size: 550px 550px;
+    background-repeat: no-repeat;
+
+}
+
+#sec3{
+
+    width: 45%;
+    height: 25%;
+    border: 1px solid black;
+    margin-left: 10px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    background-image: url(imagens/nigth\ nigth.jpg);
+    background-repeat: no-repeat;
+    background-size: 240px 190px;
+
+}
+
+#sec4{
+
+    width: 45%;
+    height: 25%;
+    border: 1px solid black;
+    margin-right: 10px;
+    float: right;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    text-align: center;
+    text-decoration: overline;
+    line-height: 100px;    
+
+}
+
+#nav3{
+
+    width: 95.9%;
+    height: 20%;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 140px;
+    background-color: rgba(255, 132, 130, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: red;
+    font-style: unset;
+    text-shadow: 10px;
+
+}
+
+#sec5{
+
+    width: 45%;
+    height: 30%;
+    border: 1px solid black;
+    margin-left: 10px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    font-size: small;
+    font-family: sans-serif;
+    text-transform: uppercase;
+
+}
+
+#sec6{
+
+    width: 45%;
+    height: 30%;
+    border: 1px solid black;
+    margin-right: 10px;
+    float: right;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    background-image: url(imagens/goat.jpg);
+    background-size: 235px 190px;
+    background-repeat: no-repeat;
+
+}
+
+footer{
+
+    width: 60%;
+    height: 150px;
+    border: 2px solid black;
+    background-color: rgba(102, 203, 56, 1);
+    margin: 0 auto;
+    margin-top: 20px;
+    background-image: url(imagens/saudades.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px 150px;
+
+}
